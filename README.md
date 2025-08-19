@@ -37,9 +37,3 @@ Se trabajó con una base de datos relacional que contiene información detallada
     * Combinación de datos de viajes con registros meteorológicos.
     * Análisis comparativo de la frecuencia de viajes en diferentes condiciones climáticas (ej. días lluviosos vs. días despejados).
     * **Prueba de Hipótesis:** Se realizó una prueba estadística (ej. t-test) para determinar si existe una diferencia significativa en la duración/frecuencia de los viajes en días con condiciones climáticas adversas (ej. 'lluvia ligera', 'lluvia', 'nubes dispersas') comparado con días de clima normal.
-
-## Resultados y Conclusiones (Ejemplos, adapta con tus hallazgos reales)
-* Se identificó que los barrios X y Y son los puntos de recogida y destino más populares.
-* Los viajes tienden a ser más cortos en duración/distancia, lo que sugiere un patrón de viajes urbanos rápidos.
-* **La prueba de hipótesis reveló que las condiciones climáticas adversas (ej. lluvia) tienen un impacto estadísticamente significativo en [disminución/aumento] de la frecuencia de los viajes, o en [aumento/disminución] de la duración promedio.**
-* Las horas pico de viaje se observan entre las [hora] y las [hora], independientemente del clima.
